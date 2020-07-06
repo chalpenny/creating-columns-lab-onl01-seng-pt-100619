@@ -29,7 +29,7 @@ img:hover {
 }
 
 .column {
-
+  width: 32% auto;
 }
 
 .amiable {
